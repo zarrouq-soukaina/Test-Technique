@@ -1,5 +1,6 @@
 # Test-Technique
-Create a 
+
+Create a virtual environment
 python -m venv env
 python env/Scripts/Activate.ps1
 cd main
